@@ -1,1 +1,5 @@
 Just wanted to try things out myself and seems I am doing good so far.  I am able to understand things clearly than before.
+
+I want to add a few more lines to this file and check how things work after I commit them.  I am still going good so far.
+
+Trying out new stuff again and it works as expected.
